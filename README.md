@@ -1,1 +1,2 @@
 # news
+# sinyal update kas
